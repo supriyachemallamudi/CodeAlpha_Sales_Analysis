@@ -1,0 +1,7 @@
+ Advertising data
+TV = [230, 44, 17, 151, 180]
+Radio = [37, 39, 45, 41, 10]
+Newspaper = [69, 45, 69, 58, 58]
+
+ Sales data
+Sales = [22, 10, 9, 18, 12]
